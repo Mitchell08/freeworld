@@ -11,3 +11,4 @@ vless://e4c2f1fa-b986-4d39-ad37-b2329e2fc236@yeahwu-kinto-wyj.herokuapp.com:443?
 vless://e4c2f1fa-b986-4d39-ad37-b2329e2fc236@104.19.42.60:80?encryption=none&security=none&type=ws&host=falling-mud-2ed1.wyj404.workers.dev#yeahwu-kinto-wyj.herokuapp.com-clone
 vless://5c301bb8-6c77-41a0-a606-4ba11bbab084@mitchell08-xray.zeet.app:443?path=%2Fs233%3Fed%3D2048&security=tls&encryption=none&type=ws#mitchell08-xray.zeet.app-Vless
 vmess://5c301bb8-6c77-41a0-a606-4ba11bbab084@mitchell08-xray.zeet.app:443?path=%2Fs244%3Fed%3D2048&security=tls&encryption=none&type=ws#mitchell08-xray.zeet.app-Vmess
+vless://c95ef1d4-f3ac-4586-96e9-234a37dda068@mitchell08-v2ray-heroku.zeet.app:443?encryption=none&security=tls&type=ws#zeet+yeahwu
